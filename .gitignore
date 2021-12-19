@@ -1,3 +1,5 @@
-# ignore all logs
+# ignore files
 tempCodeRunnerFile
 tempCodeRunnerFile.cpp
+.DS_Store
+.vscode/
