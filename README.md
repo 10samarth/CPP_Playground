@@ -1,2 +1,1 @@
-# CPP_Playground
-Explore C++
+# Explore C++
