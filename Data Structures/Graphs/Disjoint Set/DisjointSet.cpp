@@ -63,7 +63,7 @@ bool UnionFind::connected(int x, int y){
 int main(){
     cout << boolalpha;
     UnionFind uf(10);
-    
+
     // 1-2-5-6-7 3-8-9 4
     uf.unionSet(1, 2);
     uf.unionSet(2, 5);
@@ -71,9 +71,9 @@ int main(){
     uf.unionSet(6, 7);
     uf.unionSet(3, 8);
     uf.unionSet(8, 9);
-    cout << uf.connected(1, 5) << endl;  // true
-    cout << uf.connected(5, 7) << endl;  // true
-    cout << uf.connected(4, 9) << endl;  // false
+    cout << uf.connected(1, 5) << endl;
+    cout << uf.connected(5, 7) << endl;
+    cout << uf.connected(4, 9) << endl;
 
     // 1-2-5-6-7 3-8-9-4
     uf.unionSet(9, 4);
