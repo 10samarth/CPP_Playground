@@ -1,4 +1,4 @@
-# Explore C++
+# Explore C++ through Leetcode!
 
 ## Contents
 
