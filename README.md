@@ -3,7 +3,6 @@
 ## Contents
 
  Arrays
-
  - [3Sum.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Arrays/3Sum.cpp
    "3Sum.cpp")
  - [Find Minimum in Rotated Sorted Array.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Arrays/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp
@@ -18,5 +17,19 @@
    "Disjoint Set")
  - [Clone Graph.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Clone%20Graph.cpp
    "Clone Graph.cpp")
+ - [Course Schedule.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Clone%20Graph.cpp
+   "Course Schedule.cpp")
  - [Number of Provinces.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Number%20of%20Provinces.cpp
    "Number of Provinces.cpp")
+ - [NumberOfIslands.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Number%20of%20Provinces.cpp
+   "NumberOfIslands.cpp")   
+
+Dynamic Programming
+ - [CoinChange.cpp](https://github.com/10samarth/CPP_Playground/tree/main/Data%20Structures/Graphs/Disjoint%20Set
+   "CoinChange.cpp")
+ - [Longest Common Subsequence.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Clone%20Graph.cpp
+   "Longest Common Subsequence.cpp")
+ - [LongestIncreasingSubsequence.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Number%20of%20Provinces.cpp
+   "LongestIncreasingSubsequence.cpp")
+- [WordBreak.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Number%20of%20Provinces.cpp
+   "WordBreak.cpp")
