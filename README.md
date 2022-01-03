@@ -34,3 +34,9 @@ Dynamic Programming
  - [WordBreak.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Dynamic%20Programming/WordBreak.cpp
    "WordBreak.cpp")
 
+Strings
+ - Longest Palindromic Substring.cpp 
+ - Palindromic Substrings.cpp 
+ - Valid Parentheses.cpp 
+
+-Implement Trie.cpp 
