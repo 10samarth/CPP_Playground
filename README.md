@@ -43,3 +43,9 @@ Dynamic Programming
    "WordBreak.cpp")
  - Palindrome Partitioning
 
+Strings
+ - [Longest Palindromic Substring.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Longest%20Palindromic%20Substring.cpp "Longest Palindromic Substring.cpp")
+ - [Palindromic Substrings.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Palindromic%20Substrings.cpp "Palindromic Substrings.cpp")
+ - [Valid Parentheses.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Valid%20Parentheses.cpp "Valid Parentheses.cpp")
+
+-[Implement Trie.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Implement%20Trie.cpp "Implement Trie.cpp")
