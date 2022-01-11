@@ -11,6 +11,14 @@
    "MaximumProductSubarray.cpp")
  - [Search in Rotated Sorted Array.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Arrays/Search%20in%20Rotated%20Sorted%20Array.cpp
    "Search in Rotated Sorted Array.cpp")
+ - Merge Intervals
+ - Container with Most Water
+ - Find First and Last Position of Element in Sorted Array
+ - Find Peak Element
+ 
+ Linked List
+ - Linked List Cycle
+ - Reverse Linked List
  
  Graphs
  - [Disjoint Set](https://github.com/10samarth/CPP_Playground/tree/main/Data%20Structures/Graphs/Disjoint%20Set
@@ -33,4 +41,5 @@ Dynamic Programming
    "LongestIncreasingSubsequence.cpp")
  - [WordBreak.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Dynamic%20Programming/WordBreak.cpp
    "WordBreak.cpp")
+ - Palindrome Partitioning
 
