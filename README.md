@@ -16,10 +16,13 @@
  - Find First and Last Position of Element in Sorted Array
  - Find Peak Element
  - Subsets
+ - Interval List Intersections
+ - Minimum Number of Arrows to Burst Balloons
  
  Linked List
  - Linked List Cycle
  - Reverse Linked List
+ - Remove Duplicates from Sorted List II
  
  Graphs
  - [Disjoint Set](https://github.com/10samarth/CPP_Playground/tree/main/Data%20Structures/Graphs/Disjoint%20Set
@@ -31,7 +34,8 @@
  - [Number of Provinces.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/Number%20of%20Provinces.cpp
    "Number of Provinces.cpp")
  - [NumberOfIslands.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Graphs/NumberOfIslands.cpp
-   "NumberOfIslands.cpp")   
+   "NumberOfIslands.cpp")
+ - Insert into a Binary Search Tree
 
 Dynamic Programming
  - [CoinChange.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Dynamic%20Programming/CoinChange.cpp
@@ -48,5 +52,6 @@ Strings
  - [Longest Palindromic Substring.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Longest%20Palindromic%20Substring.cpp "Longest Palindromic Substring.cpp")
  - [Palindromic Substrings.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Palindromic%20Substrings.cpp "Palindromic Substrings.cpp")
  - [Valid Parentheses.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Strings/Valid%20Parentheses.cpp "Valid Parentheses.cpp")
+ - Backspace String Compare
 
 -[Implement Trie.cpp](https://github.com/10samarth/CPP_Playground/blob/main/Data%20Structures/Implement%20Trie.cpp "Implement Trie.cpp")
